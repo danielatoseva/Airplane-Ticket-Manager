@@ -37,7 +37,7 @@ namespace Airplane_Ticket_Manager.Models
 
         public List<Reservation> Reservations { get; set; }
 
-        private User()
+        public User()
         {
 
         }

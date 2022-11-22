@@ -40,7 +40,7 @@ namespace Airplane_Ticket_Manager.Models
 
         public Flight Flight { get; set; }
 
-        private Reservation()
+        public Reservation()
         {
 
         }
